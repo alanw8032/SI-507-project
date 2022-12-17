@@ -1,6 +1,6 @@
 # SI-507-project
 
-API-KEY: 'f0fd9a7d450447a8af1cdf7525aaece9'
+API-KEY: 
 
 Interaction: 
 Open a new terminal in VS code
